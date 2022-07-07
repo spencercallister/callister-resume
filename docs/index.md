@@ -7,24 +7,18 @@ Earning a BS in Data Science | Brigham Young University - Idaho | Looking for me
 
 <div id="webaddress">
 <a href="cal16004@byui.edu">cal16004@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+|<a href="https://www.linkedin.com/in/spencercallister">LinkedIn</a>
+|<a href="https://github.com/spencercallister">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.5 Major GPA
 
 
 ## Related Experience
