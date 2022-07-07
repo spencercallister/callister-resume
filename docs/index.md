@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Spencer Callister's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Spencer Callister
+Earning a BS in Data Science | Brigham Young University - Idaho | Looking for mentors and an internship
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="cal16004@byui.edu">cal16004@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
