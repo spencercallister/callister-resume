@@ -64,7 +64,7 @@ __Imagine Learning__
 - Saved 30 hours a month with the automated scripts.
 
 `April 2027 - July 2027`
-__Pinnacle Management Group__, 
+__Pinnacle Management Group__
 
 - Proof of concept development of dashboards using client's corporate data.
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
