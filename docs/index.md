@@ -37,7 +37,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Legrande Health__, Analyst
 
 - I build dashboard reports to give executives key insights into
-the company's performance in multiple sectors using Power BI 
+- the company's performance in multiple sectors using Power BI 
 - Tableau, and Google Data Studio. 
 - My understanding of SQL and data modeling help me pull data and 
 - visualize it accurately, cleanly, and efficiently. 
