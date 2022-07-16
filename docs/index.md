@@ -14,13 +14,12 @@ Earning a BS in Data Science | Brigham Young University - Idaho | Looking for me
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-
+### And Relevant Course Experience
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.5 Major GPA
-
-### And Relevant Course Experience
+___
 - Python
 - SQL
 - Microsoft Excel
