@@ -20,7 +20,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.5 Major GPA
 
-###### Relevant Course Experience
+### And Relevant Course Experience
 - Python
 - SQL
 - Microsoft Excel
